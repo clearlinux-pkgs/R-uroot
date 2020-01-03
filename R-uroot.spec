@@ -4,7 +4,7 @@
 #
 Name     : R-uroot
 Version  : 2.1.0
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/uroot_2.1-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/uroot_2.1-0.tar.gz
 Summary  : Unit Root Tests for Seasonal Time Series
